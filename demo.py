@@ -1,7 +1,7 @@
-from US_Visa.logger import logging
+from us_visa.logger import logging
 
 
-from US_Visa.exception import USvisaException
+from us_visa.exception import USvisaException
 import sys
 
 try:

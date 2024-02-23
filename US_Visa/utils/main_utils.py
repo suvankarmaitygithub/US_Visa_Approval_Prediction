@@ -6,8 +6,8 @@ import dill
 import yaml
 from pandas import DataFrame
 
-from US_Visa.exception import USvisaException
-from US_Visa.logger import logging
+from us_visa.exception import USvisaException
+from us_visa.logger import logging
 
 
 def read_yaml_file(file_path: str) -> dict:
