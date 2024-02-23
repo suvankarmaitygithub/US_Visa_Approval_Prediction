@@ -36,7 +36,7 @@ list_of_files = [
 
     "app.py",
     "requirements.txt",  
-    "DOckerfile",
+    "Dockerfile",
     ".dockerignore",
     "demo.py",
     "setup.py",
